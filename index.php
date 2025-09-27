@@ -14,6 +14,5 @@
         <p>Este é um projeto simples para demonstrar a geração de documentos PDF usando PHP e a biblioteca mPDF.</p>
         <a href="gerador.php" class="btn">Gerar meu PDF</a>
     </div>
-
 </body>
 </html>
