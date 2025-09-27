@@ -1,0 +1,19 @@
+{
+    "name": "pablo/gerador-pdf",
+    "description": "Projeto para gerar PDF com mPDF",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Pablo\\GeradorPdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pablo Nascimento",
+            "email": "pablo.rosario2019@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.2"
+    }
+}
